@@ -6,8 +6,8 @@
         "mac1": "XXYYXXYYXXYY"
     },
     "synoinfo": {
-        "esataportcfg": "0xfffc0",
-        "internalportcfg": "0x3f"    
+        "esataportcfg": "0xFFFC0",
+        "internalportcfg": "0x3F"    
     },
     "ramdisk_copy": {},
     "extensions": []
