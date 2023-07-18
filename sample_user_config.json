@@ -9,8 +9,8 @@
         "SataPortMap": "26"
     },
     "synoinfo": {
-        "esataportcfg": "0xFFFC0",
-        "internalportcfg": "0x3F"    
+        "esataportcfg": "0xFC0",
+        "internalportcfg": "0x03F"    
     },
     "ramdisk_copy": {},
     "extensions": []
