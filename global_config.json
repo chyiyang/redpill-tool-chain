@@ -275,9 +275,9 @@
       }
     },
     {
-      "id": "ds3622xsp-7.1.0-42661",
+      "id": "ds3622xsp-7.2.0-64570",
       "platform_name": "DS3622xs+",
-      "platform_version": "broadwellnk-7.1.0-42661",
+      "platform_version": "broadwellnk-7.2.0-64570",
       "user_config_json": "ds3622xsp_user_config.json",
       "docker_base_image": "debian:10-slim",
       "redpill_lkm_make_target": "dev-v7",
