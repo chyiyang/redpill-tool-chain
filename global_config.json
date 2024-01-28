@@ -289,7 +289,7 @@
         },
         "toolkit_dev": {
           "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM7.0/ds.broadwellnk-7.0.dev.txz/download",
-          "sha256": "2cda9aa531c1f427a42c801107e328f7d56cba7fa568c6109fd6de78cbe7dd02"
+          "sha256": "41fd612c2dc368209d27c114db546909952b46df55daa9b4060a0d81e0d730cf"
         }
       },
       "redpill_lkm": {
