@@ -297,7 +297,7 @@
         "branch": "develop"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/chyiyang/redpill-load.git",
         "branch": "develop"
       }
     },
